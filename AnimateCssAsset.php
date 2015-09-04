@@ -1,5 +1,5 @@
 <?php
-namespace maybeworks/animatecss;
+namespace maybeworks\animatecss;
 
 use \yii\web\AssetBundle;
 
