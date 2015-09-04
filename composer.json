@@ -1,0 +1,23 @@
+{
+    "name": "maybeworks/yii2-animate.css",
+    "description": "Animate.css assets for Yii PHP framework 2.0",
+    "keywords": ["yii", "extension", "animate.css", "assets"],
+    "type": "yii2-extension",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "B@RT",
+            "email": "bart@maybeworks.com",
+            "homepage": "http://maybe.works"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*",
+        "bower-asset/font-awesome":"*"
+    },
+    "autoload": {
+        "psr-4": {
+            "maybeworks\\animatecss\\": ""
+        }
+    }
+}
